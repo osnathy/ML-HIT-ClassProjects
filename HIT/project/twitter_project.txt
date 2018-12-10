@@ -1,0 +1,8 @@
+Learning to mine twitter on a topic: This project is 
+included in the list, so that beginners can correlate to the power of data science. 
+With help of twitter and a good data science tool, you can find out what the world is saying about a particular topic. 
+I was mesmerized by this, when I did this for the first time. 
+Be it reviews about movies, sentiments about elections or any hot topic off the press – you can know what the people are saying by yourself. 
+Performing this exercise not only helps you understand some of the challenges in mining social media (especially, if you are interested in text 
+mining), it also helps you understand how easy it is to integrate an API in your scripts to access the information available on social media.
+Reference: Who is the world cheering for?
